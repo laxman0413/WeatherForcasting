@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  width: 100%;
+  background-image: url("https://img.freepik.com/free-vector/gorgeous-clouds-background-with-blue-sky-design_1017-25501.jpg");
+  background-size: "cover";
+  height: 100vh;
+  margin-top: -70px;
+  font-size:50px;
+  background-repeat:no-repeat;
+}
+.header{
+ background-color: rgb(88, 86, 86);
+ color: white;
+ text-align: center;
+ margin: 0%;
+ padding: 30px;
+}
+
